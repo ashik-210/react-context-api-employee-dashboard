@@ -1,3 +1,103 @@
+# React Context API Employee Dashboard
+
+A responsive employee dashboard built with **React** and **Context API**. The project fetches employee data from an API and displays employee information in clean, responsive cards.
+
+
+## ✨ Features
+
+* Employee data fetched from an API
+* React Context API for state management
+* Employee profile image
+* Employee name
+* Age and gender information
+* Department information
+* Responsive card layout
+* Modern hover effects
+* Clean and reusable React components
+
+## 🛠️ Technologies Used
+
+* React.js
+* JavaScript
+* Context API
+* CSS
+* Axios
+* Vite
+
+## 📂 Project Structure
+
+```text
+src/
+├── components/
+│   └── CompContext.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/react-context-api-employee-dashboard.git
+```
+
+Go to the project directory:
+
+```bash
+cd react-context-api-employee-dashboard
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The application will run on the local Vite development server.
+
+## 📊 Employee Information
+
+Each employee card displays:
+
+* Profile image
+* First name
+* Age
+* Gender
+* Department
+
+## 🎯 Purpose
+
+This project was created to practice:
+
+* React Context API
+* `useContext`
+* API data handling
+* Component-based architecture
+* Rendering dynamic data with `.map()`
+* Responsive CSS
+
+## 👨‍💻 Author
+
+**Ashik**
+
+GitHub: https://github.com/ashik-210
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
